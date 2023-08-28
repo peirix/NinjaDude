@@ -1,0 +1,2458 @@
+fileFormatVersion: 2
+guid: b6a10bb932eb14a239e28515a0cd4602
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f38319c2ebe0470381e4730a242a18a
+      internalID: 1472490514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_75
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e87f9acc43174053bc4ef7a3378867d
+      internalID: -556631829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_76
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfc7a013051d42c8985f65f2dd75c1b
+      internalID: -1431383511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35726a375075d489b84b019805d1f2fd
+      internalID: -2066300579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_81
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dbc8bbafb88491d8baf956b4cc17e2
+      internalID: -241548916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_82
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e2bd781e38e47d4a77f00defe37fa7
+      internalID: 778815251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_83
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2284129a197594da58658c2eaa87e953
+      internalID: -1481644920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e65cb6ac4e1024d47bfd6cc64457d902
+      internalID: 39296925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_85
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399e673a44bd44763b1e565dc42d3326
+      internalID: 1746092696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_86
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccadbb78b6804ad189d9a109d866d6f
+      internalID: -589831077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_87
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71c763699f9b425ba426ac4ca688f18
+      internalID: 1306724035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_88
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf735a9454bd4e69961e91e06f74c27
+      internalID: -1615344644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_89
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b342d3c1a9f7d4801a73f2d530dc17e0
+      internalID: 1200224131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_90
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd34e38e76b4404f8c5d55e6a6c3530
+      internalID: 634398710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_91
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb190e8a8909b459e8073eca227ad2e0
+      internalID: -1694312278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 258
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfb0ef2d4f324f1aa5bfc8ddda9049c
+      internalID: 1773637212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_97
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb03835bb22ef4b7d969ab415204f0e3
+      internalID: 2068781185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_98
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7faecc7c29e4c01a8dc14a66a70131
+      internalID: -58809829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_99
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3226272b067d4d97962888140277816
+      internalID: 361807554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_100
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6edb98d134d6a442ea9490394eef3404
+      internalID: 1369359519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_101
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc931345d59cc4c3cbba7b9efbe2cd7b
+      internalID: 604957506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_102
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a213a5eb38aa4af4ba0f549fb4d658f
+      internalID: 2115610654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_103
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4702b60b998b340d6ac8a8f1511da552
+      internalID: 1844937190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_104
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341d5d43c21d841c9bd5bfaa233a32f8
+      internalID: -2111522868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_105
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a725285f53754c2cb741b98c516ebd8
+      internalID: -1075660597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_107
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e903c18be13d4e928a3928f620c8502
+      internalID: -1456779534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_108
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 241
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2658435cbf05446edbdb84b5336b72c5
+      internalID: 1247623235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_113
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5697c9eae25be4272883b2f465fe2013
+      internalID: 534046363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_114
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c5c3a306394245df8fcc298e91d9c58
+      internalID: -653324400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_115
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5b56b3524af4cf398289cd6d173fe9
+      internalID: 1921735043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_116
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0012211b2cf4eab80cd697c73514a0
+      internalID: 369677936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_117
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59027526fd1348068510623b8b553ca
+      internalID: -1455060849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_118
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3e53870d8604ef4875fa69184d4c32
+      internalID: 1129215509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_119
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cfda6e9dae24da58bbd4c730b1866e
+      internalID: -1174595041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_120
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5cc897362754695909c96ada449740
+      internalID: -2111873189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_123
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc7169495f444cd492f792f8992b48c
+      internalID: 1151139458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_124
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc166958ae79d47f084f6873fc7c49f4
+      internalID: -1716432350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_125
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34ffea629bdf44ea8f712dd40178b36
+      internalID: 402362949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_126
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba6574dc488e4d318171b7ee8162587
+      internalID: -704613820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_128
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088b67a55959a4f7fb69587a06825a21
+      internalID: -202537930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_129
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335e414a25db34b75b852f327aa7198d
+      internalID: 1994574211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_130
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121798e285c124a7bab93419630ab48b
+      internalID: 844256292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_131
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa28c1a8ad53438babe7db65f2eca1d
+      internalID: 1043133419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_132
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388c544286392435984d0506beb35c74
+      internalID: -1459650967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_133
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78ac3a996546488fa80953a660e4d1c
+      internalID: 489490229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_134
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b270b04ce44b4933adceb4804211f73
+      internalID: -659808445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_135
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aea33d80e4b472498e26baa6556b8a
+      internalID: -176384656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_136
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fd50f28aec1470983296e313c995b0
+      internalID: 572610162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_139
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff974f4523ed4bfc9023c5bcbdd9bec
+      internalID: -367668994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_140
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149e59e87e33b4296ab2075a1cfc1e61
+      internalID: -259466379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_141
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b98e6ef6c1b4fd5a9bdd0ae6c536ac
+      internalID: -422346812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_144
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a1a21c8c0504481aa003b7c3a5ae22
+      internalID: -1068007794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_145
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7d9ed35a9134d64ba2d50dfb22465c
+      internalID: -782887253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_146
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a020829f05a44cd5a9481c839ea2796
+      internalID: -1966410821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_147
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390d48e8a93f3495ca0c7cf60707a31d
+      internalID: -2103696239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_148
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d7bfb2712d04495a487a86811ac7d2
+      internalID: -1702722133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_149
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ff4bc7ffac5483d95fc5f1e0602bca
+      internalID: 22100935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_150
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3cf4a4f36754ec1a6ca60d4a201fbc
+      internalID: -1570525203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_151
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69dc2586155e4666b558e1b60692504
+      internalID: 676968236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_152
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c853defd18b427e850b5d3c0cf9a41
+      internalID: 373530777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_153
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d8eaca8244c433594a694600b3bccc
+      internalID: 363777104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_154
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81b89642a20a483ba83b28b57e3a893
+      internalID: -839647140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_155
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9360e58e05837425da80593953768da6
+      internalID: -939694375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_156
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f7cf005beca4009b5783982c9584b6
+      internalID: 898324492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_157
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 190
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf8adc8656cb41f8af993e49b4d5496
+      internalID: 404110989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_160
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69000543a8e4c428daa4916c91b25ae5
+      internalID: 100436492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_161
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bf314134b654186a4977621da8b8bb
+      internalID: 2042711701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_162
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa92428c22dd46a7bba6d95089aae16
+      internalID: 1035051405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_163
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daef630ef8b1d472d95124ec39b03439
+      internalID: 797595492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_164
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f1d55d186ea4620a342ad9217498ed
+      internalID: -1162703438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_165
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9292aa95800224d96abd3cd06e9a8283
+      internalID: -1630544843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_166
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccf828d23e554a469e5c83ce3f73abe
+      internalID: 215840829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_167
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db36fee65294e4610bea61e3cc6046ac
+      internalID: 1771812160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_168
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3295ea0e2b1427f9fd7de0e98eab55
+      internalID: 1636372041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_169
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 173
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e92efa1eaee0436d8cf1f426f31dd47
+      internalID: 1978556820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_176
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33e91d3774f3486db4fa8a1eba27a1e
+      internalID: 702036719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_177
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57500d1bf458a49a4ac682f1944075bb
+      internalID: -120853293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_178
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f1c7d6b891148aab153c87c1d25c9b
+      internalID: 1123642331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_179
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135c0ec7b54794bc3a19a848632936ce
+      internalID: 1178662879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_180
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee46c9c9217274b518dd7e67f315686a
+      internalID: 759152782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_181
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13dfc82ef77c463aad5679c3c2798d8
+      internalID: -1788458039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_182
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb1396ff2b045568f9ffd63800be45
+      internalID: -798668482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_183
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ab99d270ff34dafb409320349e301f
+      internalID: 1296613302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_184
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c346ef90855b42e68019e1f9b527aa7
+      internalID: 934511631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_185
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 156
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42897bb64a9f4cc78fc161b3960c263
+      internalID: -938839975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_192
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db002b29f836046f690c51274bfb8ab7
+      internalID: 646444508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_193
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a07cf6233ab4e7ca1262299442e1c3
+      internalID: -1110280435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_194
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac989e05d27534de7a7a055d36e24624
+      internalID: 536274135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_195
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cf8866ccedb43bab025fc81a44228c
+      internalID: 1075587576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_196
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eb5da24c9ab46b9b25c4d274a01000
+      internalID: 141080540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_197
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a6a4382644f4ace928be3a0bfe99c2
+      internalID: 559388328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_198
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448b1e016add54e34a8097296bc7740a
+      internalID: -457472512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_199
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd004b6ba1e1c455ca88ad834cc4f337
+      internalID: 805794094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_200
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 139
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c514100e673504ec48b56dc4950dc5c8
+      internalID: 670434759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 275
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb01daa9eae4ab5a85bd02f635fcc7
+      internalID: -1327415971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_0: -1327415971
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_1: 1472490514
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_10: 792813638
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_100: 1369359519
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_101: 604957506
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_102: 2115610654
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_103: 1844937190
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_104: -2111522868
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_105: -1075660597
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_106: 1557428455
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_107: -1456779534
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_108: 1247623235
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_109: -2059202372
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_11: 1215935981
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_110: 1553890359
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_111: 1976162246
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_112: 2062235012
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_113: 534046363
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_114: -653324400
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_115: 1921735043
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_116: 369677936
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_117: -1455060849
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_118: 1129215509
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_119: -1174595041
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_12: -318314764
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_120: -2111873189
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_121: -1081839382
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_122: 64913337
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_123: 1151139458
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_124: -1716432350
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_125: 402362949
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_126: -704613820
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_127: -1507068162
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_128: -202537930
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_129: 1994574211
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_13: -467487624
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_130: 844256292
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_131: 1043133419
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_132: -1459650967
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_133: 489490229
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_134: -659808445
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_135: -176384656
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_136: 572610162
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_137: -1946041116
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_138: -151956076
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_139: -367668994
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_14: 565614978
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_140: -259466379
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_141: -422346812
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_142: -1093791833
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_143: 1726564109
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_144: -1068007794
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_145: -782887253
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_146: -1966410821
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_147: -2103696239
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_148: -1702722133
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_149: 22100935
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_15: -1785131763
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_150: -1570525203
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_151: 676968236
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_152: 373530777
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_153: 363777104
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_154: -839647140
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_155: -939694375
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_156: 898324492
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_157: 404110989
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_158: -674439763
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_159: -1956429569
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_16: 149699026
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_160: 100436492
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_161: 2042711701
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_162: 1035051405
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_163: 797595492
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_164: -1162703438
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_165: -1630544843
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_166: 215840829
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_167: 1771812160
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_168: 1636372041
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_169: 1978556820
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_17: -1379903602
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_170: 182744836
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_171: -1053297364
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_172: -1249190810
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_173: -576048518
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_174: -1666131108
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_175: 1500102456
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_176: 702036719
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_177: -120853293
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_178: 1123642331
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_179: 1178662879
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_18: -1148374644
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_180: 759152782
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_181: -1788458039
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_182: -798668482
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_183: 1296613302
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_184: 934511631
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_185: -938839975
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_186: -1782312940
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_187: -370994729
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_188: 2051381419
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_189: -1725569932
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_19: -630402709
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_190: -1363000888
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_191: -19369931
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_192: 646444508
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_193: -1110280435
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_194: 536274135
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_195: 1075587576
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_196: 141080540
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_197: 559388328
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_198: -457472512
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_199: 805794094
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_2: 1027509223
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_20: 1561327490
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_200: 670434759
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_201: -670247691
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_202: -1175864373
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_203: 726845529
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_204: -1563013196
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_205: -494468253
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_206: 376854493
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_207: -1017612479
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_208: -716061972
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_209: -1778611273
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_21: -1070414350
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_210: 1223076037
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_211: 949170168
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_212: -54310511
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_213: -360536784
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_214: 373218400
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_215: -1443253216
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_216: 1760855087
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_217: 123588337
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_218: 2050242340
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_219: -865281540
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_22: 1722365613
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_220: 33697706
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_221: 1944884021
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_222: 895811812
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_223: -1918148895
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_224: -512421385
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_225: -1516318784
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_226: -1398305948
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_227: -154661415
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_228: 1204004873
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_229: -597822833
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_23: -1015403314
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_230: -794806420
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_231: -1862610250
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_232: -1541584089
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_233: -244067155
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_234: 1851469502
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_235: 689609118
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_236: 496403614
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_237: 537775000
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_238: -2142878300
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_239: -2138729098
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_24: -452069678
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_240: -649326377
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_241: 407284521
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_242: -963739231
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_243: 956327723
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_244: -1867758590
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_245: -1587782374
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_246: -164178354
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_247: -1849622789
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_248: -1156026582
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_249: -945608069
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_25: -1299944932
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_250: 1836921633
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_251: -1322745075
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_252: 1951384682
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_253: -1529288061
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_254: 364444660
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_255: 1630617933
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_256: -747323789
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_257: 247122882
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_258: -1953683840
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_259: -1716034239
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_26: -1562653429
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_260: -1822972007
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_261: -81370875
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_262: 437155514
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_263: 2078188312
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_264: 635562693
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_265: 859373810
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_266: -1576221715
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_267: 440231631
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_268: 1590796575
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_269: -54176670
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_27: 386942887
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_270: -339418178
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_271: 1147768698
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_272: -714751347
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_273: 662219204
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_274: 800901649
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_275: 627104091
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_276: 1878720969
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_277: 1174701910
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_278: -84255458
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_279: -476642717
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_28: -1703297302
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_280: 468935352
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_281: 926415088
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_282: 447384573
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_283: -1211292563
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_284: -211854159
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_285: -452098436
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_286: 672238365
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_287: -2135364685
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_288: -2097373886
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_289: -836043685
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_29: 2139140266
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_290: -1892247454
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_291: -1600256678
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_292: -894445498
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_293: -1375341595
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_294: 1174042548
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_295: 1901829872
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_296: -992433501
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_297: -297307154
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_298: -42740600
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_299: 124881080
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_3: -1008130939
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_30: -307247652
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_300: 1031404926
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_301: -835636737
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_302: 258107267
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_303: 329073398
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_304: -367876265
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_305: -856871451
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_306: -406340098
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_307: -1486981679
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_308: 371517879
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_309: 1763802670
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_31: 484598347
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_310: 925860697
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_311: -1130054796
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_312: -379997231
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_313: -673592690
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_314: 737516215
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_315: 2034800041
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_316: 346856762
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_317: 916235006
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_318: 518822888
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_319: 246017154
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_32: 342816629
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_320: 458413107
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_321: 1813341540
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_322: 815576464
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_323: -1411499747
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_324: -2003561381
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_325: 749710028
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_326: 1149798911
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_327: 418595583
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_328: -2027841464
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_329: 1876295638
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_33: -656806712
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_330: 1378023500
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_331: 506055485
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_332: 400423006
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_333: 479119030
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_334: 1756370267
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_335: -1452041732
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_34: 2039460497
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_35: -2084411268
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_36: 1588785414
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_37: -1713236760
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_38: -1694388331
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_39: -545695635
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_4: 1746593262
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_40: -563270408
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_41: 608100987
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_42: 573970323
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_43: -2060455518
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_44: 1831100866
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_45: -707221320
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_46: 691497295
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_47: 1721036865
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_48: 2051564273
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_49: -1427039254
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_5: -1305708599
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_50: 530730818
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_51: 1972265088
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_52: -1157169595
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_53: -1918220966
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_54: -322144332
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_55: -503537018
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_56: 1052277377
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_57: 1928301626
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_58: 91293136
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_59: -940187294
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_6: 1739596401
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_60: -1278065258
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_61: -1784834749
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_62: -89068274
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_63: 372917584
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_64: 1086824004
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_65: -600774033
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_66: 503912757
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_67: 665145809
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_68: -1486824934
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_69: -1241872861
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_7: 1049718184
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_70: -1674041961
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_71: -1780479981
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_72: 1901558086
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_73: 1675649146
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_74: -979471724
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_75: -556631829
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_76: -1431383511
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_77: 1398156872
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_78: -800773314
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_79: -927862525
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_8: -1588488343
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_80: -2066300579
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_81: -241548916
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_82: 778815251
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_83: -1481644920
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_84: 39296925
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_85: 1746092696
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_86: -589831077
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_87: 1306724035
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_88: -1615344644
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_89: 1200224131
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_9: -1612684758
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_90: 634398710
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_91: -1694312278
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_92: 1773637212
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_93: -129239561
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_94: -1852441252
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_95: -822868364
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_96: -2113835610
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_97: 2068781185
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_98: -58809829
+      SNES - The Flintstones The Treasure of Sierra Madrock - JungleRock_99: 361807554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
