@@ -19,6 +19,12 @@ public class PlayerController : MonoBehaviour
     float lastCheck = 0;
     bool canJump = false;
     bool isWallSliding;
+    bool isWallJumping;
+    float wallJumpingDirection;
+    float wallJumpingTime = 0.2f;
+    float wallJumpingCounter;
+    float wallJumpingDuration = 0.4f;
+    Vector2 wallJumpingPower = new(8f, 16f);
 
     [SerializeField]float moveSpeed = 2f;
     [SerializeField]float slideSpeed = 20f;
@@ -55,10 +61,14 @@ public class PlayerController : MonoBehaviour
         Run();
         FlipSprite();
         WallSlide();
+        WallJump();
     }
 
     void Run()
     {
+        if (isWallJumping) {
+            return;
+        }
         Vector2 playerVelocity = new Vector2(moveInput.x * moveSpeed, body.velocity.y);
         timeRemaining -= Time.deltaTime;
         if (timeRemaining < 0f) {
@@ -111,6 +121,12 @@ public class PlayerController : MonoBehaviour
             animator.SetBool("isJumping", true);
             body.velocity = new(0, jumpSpeed);
         }
+        else if (value.isPressed && wallJumpingCounter > 0f)
+        {
+            isWallJumping = true;
+            body.velocity = new(wallJumpingDirection * wallJumpingPower.x, wallJumpingPower.y);
+            wallJumpingCounter = 0f;
+        }
     }
 
     private bool IsGrounded()
@@ -119,6 +135,7 @@ public class PlayerController : MonoBehaviour
         isGroundedText.text = isGrounded ? "Ja" : "Nei";
         if (isGrounded && fallingTime != 0) {
             canJump = true;
+            isWallJumping = false;
             animator.SetBool("isJumping", false);
             animator.SetBool("isFalling", false);
             fallingTime = 0;
@@ -146,5 +163,26 @@ public class PlayerController : MonoBehaviour
         {
             isWallSliding = false;
         }
+    }
+
+    void WallJump()
+    {
+        if (isWallSliding)
+        {
+            isWallJumping = false;
+            wallJumpingDirection = -transform.localScale.x;
+            wallJumpingCounter = wallJumpingTime;
+
+            CancelInvoke(nameof(StopWallJumping));
+        }
+        else
+        {
+            wallJumpingCounter -= Time.deltaTime;
+        }
+    }
+
+    void StopWallJumping()
+    {
+        Invoke(nameof(StopWallJumping), wallJumpingDuration);
     }
 }
